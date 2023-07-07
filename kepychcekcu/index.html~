@@ -15,6 +15,7 @@
     <p>Toto je místo, kde můžete napsat něco o sobě nebo o tématu, které vás zajímá.</p>
     <h2>Můj obsah</h2>
     <p>Zde můžete prezentovat svůj obsah, vložit videa, obrázky, texty a další prvky.</p>
+    <a href="http://bluefish.openoffice.nl/">Made with Bluefish HTML editor.</a>
   </main>
   <footer>
     &copy; 2023 Moje webová stránka. Všechna práva vyhrazena.
