@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Moje webová stránka</title>
+  <title>Moje fkn webová stránka</title>
   <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
@@ -16,6 +16,7 @@
    <p>Nevím co tu napsat. trochu sad..</p>
    <h2>Já, když vidím .mor0se.:</h2>
    <video src="video/doom.mp4" controls loop width="500" preload="auto"></video>
+	<video src="video/doom.mp4" poster="video/molly.png" autoplay controls loop width="500"></video></body>
    <p>You are watching PikaZap's Website! Shame on you! :3.</p>
    <a href="http://bluefish.openoffice.nl/">Made with Bluefish HTML editor.</a>
   </main>
@@ -24,4 +25,3 @@
     &copy; 2023 Moje webová stránka. Všechna práva vyhrazena.
   </footer>
   
-</body>
