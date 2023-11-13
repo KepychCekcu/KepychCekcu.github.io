@@ -5,7 +5,7 @@ function doSomething() {
 
   var video = document.createElement("video");
   video.src =
-    "https://cdn.discordapp.com/attachments/952319310947311666/1092916798166417489/received_563132948960639.mp4";
+    "https://cdn.discordapp.com/attachments/1093609246219833497/1173689300467064863/Boykisser_Chipi_Chipi_10_min_TFI0dNGEDug.mp4?ex=6564de57&is=65526957&hm=079765b30b1891e7f38174eb3f709295747a80af3e1a8fd15de8b6de1e8e34a6&";
   video.width = 720;
   /*video.height = 100;*/
   video.controls = false;
