@@ -1,1 +1,1 @@
-Stupid idiot, that creates mess. Thank you for reading!
+Stupid idiot, that creates a mess. Thank you for reading!
